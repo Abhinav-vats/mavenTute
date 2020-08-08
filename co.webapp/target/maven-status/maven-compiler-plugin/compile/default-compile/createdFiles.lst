@@ -1,0 +1,4 @@
+com\lti\dao\util\ConnManager.class
+com\lti\entity\Product.class
+com\lti\servelet\AddProductServlet.class
+com\lti\dao\ProductDao.class
